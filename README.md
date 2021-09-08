@@ -6,7 +6,7 @@
 
 I am a passinate Frontend Developer with a practical “can-do” 💪 attitude. Thanks to my creativity 🎨, I'm always able to solve problems, both personal and technical.
 I am a natural communicator 📢 who easily connects with others.
-Two of my biggest passions are web design and web development 💻.
+My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 
 <br/>
 
