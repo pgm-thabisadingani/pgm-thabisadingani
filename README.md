@@ -71,6 +71,12 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-thabisadingani&layout=compact)](https://github.com/pgm-thabisadingani/github-readme-stats)  -->
 
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pgm-thabisadingani&show_icons=true&hide=contribs,prs&bg_color=262B37&title_color=F4BF1D&icon_color=F4BF1D&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-thabisadingani&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+<!-- 
 
 <a>
     Thabisa's GitHub stats
@@ -79,7 +85,7 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 <a>
     Top Langs
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-thabisadingani&layout=compact" />
-</a>
+</a> -->
 
 
 <br/>
