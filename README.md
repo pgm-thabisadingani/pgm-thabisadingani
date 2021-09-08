@@ -64,6 +64,8 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-black?style=flat-square&logo=visualstudiocode)
+![Adobe XD](https://img.shields.io/badge/-adobexd-black?style=flat-square&logo=adobexd)
 
 <br/>
 
