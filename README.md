@@ -74,11 +74,11 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 
 <a>
 Thabisa's GitHub stats
-  <img src="https://github-readme-stats.vercel.app/api?username=pgm-thabisadingani&show_icons=true&hide=contribs,prs&bg_color=262B37&title_color=F4BF1D&icon_color=F4BF1D&text_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pgm-thabisadingani&show_icons=true&hide=contribs,prs&bg_color=262B37&title_color=F4BF1D&icon_color=F4BF1D&text_color=ffffff" />
 </a>
 <a>
     Top Langs
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-thabisadingani&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-thabisadingani&layout=compact" />
 </a>
 
 
