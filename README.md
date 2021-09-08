@@ -39,6 +39,16 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 |Teamwork           |🌕🌕🌕🌕🌑  |     |JS-Frameworks    |🌕🌕🌕🌗🌑 | 
                                                                            
 
+
+<br/>
+
+
+### MY GITHUB STATISTICS 📈
+
+![Thabisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-thabisadingani&show_icons=true&hide=contribs,prs&bg_color=262B37&title_color=F4BF1D&icon_color=F4BF1D&text_color=ffffff) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-thabisadingani&layout=compact)](https://github.com/pgm-thabisadingani/github-readme-stats) 
+
 <br/>
 
 ### LANGUAGES AND TOOLS 🛠️
@@ -60,15 +70,6 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-black?style=flat-square&logo=visualstudiocode)
 ![Adobe XD](https://img.shields.io/badge/-adobexd-black?style=flat-square&logo=adobexd)
-
-<br/>
-
-
-### MY GITHUB STATISTICS 📈
-
-![Thabisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-thabisadingani&show_icons=true&hide=contribs,prs&bg_color=262B37&title_color=F4BF1D&icon_color=F4BF1D&text_color=ffffff) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-thabisadingani&layout=compact)](https://github.com/pgm-thabisadingani/github-readme-stats) 
 
 
 <br/>
