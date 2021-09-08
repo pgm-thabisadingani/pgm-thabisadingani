@@ -78,7 +78,7 @@ Thabisa's GitHub stats
 </a>
 <a href="https://github.com/pgm-thabisadingani/github-readme-stats">
     Top Langs
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-thabisadingani&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-thabisadingani&layout=compact" />
 </a>
 
 
