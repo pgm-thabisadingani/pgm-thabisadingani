@@ -56,7 +56,7 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 
 * 🎭**Hobbies:**
 
-   * My interests include reading, sketching websites, aerobics and yoga.
+   * My Hobbies include reading, sketching websites, aerobics and yoga.
 
 ----
 
