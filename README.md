@@ -40,6 +40,7 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
                                                                            
 
 <br/>
+
 ### LANGUAGES AND TOOLS 🛠️
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
