@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am a passinate Frontend Developer with a practical “can-do” 💪 attitude. Thanks to my creativity 🎨, I'm always able to solve problems, both personal and technical.
+I am a passionate Frontend Developer with a practical “can-do” 💪 attitude. Thanks to my creativity 🎨, I'm always able to solve problems, both personal and technical.
 I am a natural communicator 📢 who easily connects with others.
 My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 
@@ -40,16 +40,6 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
                                                                            
 
 <br/>
-
-### MY GITHUB STATISTICS 📈
-
-![Thabisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-thabisadingani&show_icons=true&hide=contribs,prs&bg_color=262B37&title_color=F4BF1D&icon_color=F4BF1D&text_color=ffffff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-thabisadingani&layout=compact)](https://github.com/pgm-thabisadingani/github-readme-stats)
-
-
-<br/>
-
 ### LANGUAGES AND TOOLS 🛠️
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -71,6 +61,17 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 ![Adobe XD](https://img.shields.io/badge/-adobexd-black?style=flat-square&logo=adobexd)
 
 <br/>
+
+
+### MY GITHUB STATISTICS 📈
+
+![Thabisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgm-thabisadingani&show_icons=true&hide=contribs,prs&bg_color=262B37&title_color=F4BF1D&icon_color=F4BF1D&text_color=ffffff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgm-thabisadingani&layout=compact)](https://github.com/pgm-thabisadingani/github-readme-stats)
+
+
+<br/>
+
 
 ### EXTRA INFORMATION 🦄
 
