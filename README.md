@@ -83,11 +83,11 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 
 * 🎭**Hobbies:**
 
-   * My Hobbies include reading, sketching websites, aerobics and yoga.
+   * Reading, sketching websites, aerobics and yoga.
 
 ----
 
-> 📧 <thabisad6@hotmail.co.uk> • ☎️ 0478570549  • 🏡 Eeklo, 9900 
+> 📧 <thabding@student.arteveldehs.be> • ☎️ 0478570549  • 🏡 Eeklo, 9900 
 > 
 > [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/thabisa-dingani-b173251b7/)
 > [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/pgm-thabisadingani)
