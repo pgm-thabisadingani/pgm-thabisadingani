@@ -12,6 +12,8 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 
 ### MY EXPERIENCE 💼
 
+🏬 **Superkraft**
+
 ⏳*2022-2022*
 
 📝Front-end developer (internship)
