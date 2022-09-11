@@ -10,11 +10,24 @@ My current areas of interest include UI/UX, SEO, and Frontend Development💻.
 
 <br/>
 
+### MY EXPERIENCE 💼
+
+⏳*2022-2022*
+
+📝Front-end developer (internship)
+
+- Developing user-facing features.
+- Determining the structure and design of web pages.
+- Building reusable code for future use.
+- Ensuring web pages are optimized for smartphones.
+- Maintaining brand consistency throughout the web pages.
+- Using a variety of tools & frameworks and technologies to create the web pages.
+
 ### MY EDUCATION 📚
 
 🏫**Arteveldehogeschool**
 
-⏳*2020-Now*
+⏳*2020-2022*
 
 - Associate Degree in Computer Programming. 
 
